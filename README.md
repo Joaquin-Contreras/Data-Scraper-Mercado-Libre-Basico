@@ -1,8 +1,15 @@
 # Data-Scraper-Mercado-Libre-Basico
 
-## To run the script
+## Requirements
 ----------------------------------
 
 pip install bs4
 <br>
 pip install pandas
+<br>
+
+### To run the script
+<br>
+python mercadolibre.py
+
+
