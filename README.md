@@ -1,6 +1,5 @@
 # Data-Scraper-Mercado-Libre-Basico
 
-## Requirements
 ----------------------------------
 
 How you can see this is a basic web scraper for Mercado Libre made with Python and BeautifulSoup4
